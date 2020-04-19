@@ -1,3 +1,6 @@
 [submodule "mozilla-lk"]
 	path = branding
 	url = https://github.com/Mozilla-lk/OpenDesign
+[submodule "branding/mozilla-lk/OpenDesign"]
+	path = branding/mozilla-lk/OpenDesign
+	url = https://github.com/Mozilla-lk/OpenDesign
