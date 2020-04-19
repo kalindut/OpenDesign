@@ -1,0 +1,3 @@
+[submodule "mozilla-lk"]
+	path = branding
+	url = https://github.com/Mozilla-lk/OpenDesign
